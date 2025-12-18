@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+BlogTOAR1/files/
+
 .Python
 build/
 develop-eggs/
