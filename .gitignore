@@ -9,6 +9,8 @@ __pycache__/
 # Distribution / packaging
 BlogTOAR1/files/
 BlogTOAR1/res/
+BlogTOAR2/files/
+BlogTOAR2/res/
 
 .Python
 build/
